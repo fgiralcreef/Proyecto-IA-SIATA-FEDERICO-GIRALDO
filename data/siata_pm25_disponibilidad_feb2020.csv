@@ -1,0 +1,233 @@
+fecha,estacion,nombre,porcentaje_valido
+2020-02-01,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-02,ITA-CJUS,"Casa de Justicia, Itagüí",95.83
+2020-02-03,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-04,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-05,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-06,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-07,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-08,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-09,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-10,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-11,ITA-CJUS,"Casa de Justicia, Itagüí",91.67
+2020-02-12,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-13,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-14,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-15,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-16,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-17,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-18,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-19,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-20,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-21,ITA-CJUS,"Casa de Justicia, Itagüí",95.83
+2020-02-22,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-23,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-24,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-25,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-26,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-27,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-28,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-29,ITA-CJUS,"Casa de Justicia, Itagüí",100.0
+2020-02-01,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-02,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-03,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-04,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-05,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-06,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-07,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-08,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-09,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-10,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-11,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-12,ITA-CONC,"Concejo Municipal, Itagüí",95.83
+2020-02-13,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-14,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-15,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-16,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-17,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-18,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-19,ITA-CONC,"Concejo Municipal, Itagüí",91.67
+2020-02-20,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-21,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-22,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-23,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-24,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-25,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-26,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-27,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-28,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-29,ITA-CONC,"Concejo Municipal, Itagüí",100.0
+2020-02-01,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-02,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-03,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-04,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-05,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-06,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-07,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-08,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-09,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-10,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-11,CAL-LASA,"Lasallista, Caldas",95.83
+2020-02-12,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-13,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-14,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-15,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-16,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-17,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-18,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-19,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-20,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-21,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-22,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-23,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-24,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-25,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-26,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-27,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-28,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-29,CAL-LASA,"Lasallista, Caldas",100.0
+2020-02-01,SUR-TRAF,Tráfico Sur,45.83
+2020-02-02,SUR-TRAF,Tráfico Sur,100.0
+2020-02-03,SUR-TRAF,Tráfico Sur,100.0
+2020-02-04,SUR-TRAF,Tráfico Sur,100.0
+2020-02-05,SUR-TRAF,Tráfico Sur,100.0
+2020-02-06,SUR-TRAF,Tráfico Sur,100.0
+2020-02-07,SUR-TRAF,Tráfico Sur,91.67
+2020-02-08,SUR-TRAF,Tráfico Sur,100.0
+2020-02-09,SUR-TRAF,Tráfico Sur,100.0
+2020-02-10,SUR-TRAF,Tráfico Sur,100.0
+2020-02-11,SUR-TRAF,Tráfico Sur,100.0
+2020-02-12,SUR-TRAF,Tráfico Sur,100.0
+2020-02-13,SUR-TRAF,Tráfico Sur,100.0
+2020-02-14,SUR-TRAF,Tráfico Sur,100.0
+2020-02-15,SUR-TRAF,Tráfico Sur,100.0
+2020-02-16,SUR-TRAF,Tráfico Sur,100.0
+2020-02-17,SUR-TRAF,Tráfico Sur,100.0
+2020-02-18,SUR-TRAF,Tráfico Sur,100.0
+2020-02-19,SUR-TRAF,Tráfico Sur,87.5
+2020-02-20,SUR-TRAF,Tráfico Sur,100.0
+2020-02-21,SUR-TRAF,Tráfico Sur,100.0
+2020-02-22,SUR-TRAF,Tráfico Sur,100.0
+2020-02-23,SUR-TRAF,Tráfico Sur,100.0
+2020-02-24,SUR-TRAF,Tráfico Sur,100.0
+2020-02-25,SUR-TRAF,Tráfico Sur,100.0
+2020-02-26,SUR-TRAF,Tráfico Sur,100.0
+2020-02-27,SUR-TRAF,Tráfico Sur,100.0
+2020-02-28,SUR-TRAF,Tráfico Sur,100.0
+2020-02-29,SUR-TRAF,Tráfico Sur,100.0
+2020-02-01,CEN-TRAF,Tráfico Centro,100.0
+2020-02-02,CEN-TRAF,Tráfico Centro,100.0
+2020-02-03,CEN-TRAF,Tráfico Centro,100.0
+2020-02-04,CEN-TRAF,Tráfico Centro,100.0
+2020-02-05,CEN-TRAF,Tráfico Centro,91.67
+2020-02-06,CEN-TRAF,Tráfico Centro,100.0
+2020-02-07,CEN-TRAF,Tráfico Centro,100.0
+2020-02-08,CEN-TRAF,Tráfico Centro,100.0
+2020-02-09,CEN-TRAF,Tráfico Centro,100.0
+2020-02-10,CEN-TRAF,Tráfico Centro,100.0
+2020-02-11,CEN-TRAF,Tráfico Centro,100.0
+2020-02-12,CEN-TRAF,Tráfico Centro,100.0
+2020-02-13,CEN-TRAF,Tráfico Centro,100.0
+2020-02-14,CEN-TRAF,Tráfico Centro,100.0
+2020-02-15,CEN-TRAF,Tráfico Centro,100.0
+2020-02-16,CEN-TRAF,Tráfico Centro,100.0
+2020-02-17,CEN-TRAF,Tráfico Centro,95.83
+2020-02-18,CEN-TRAF,Tráfico Centro,100.0
+2020-02-19,CEN-TRAF,Tráfico Centro,95.83
+2020-02-20,CEN-TRAF,Tráfico Centro,83.33
+2020-02-21,CEN-TRAF,Tráfico Centro,100.0
+2020-02-22,CEN-TRAF,Tráfico Centro,100.0
+2020-02-23,CEN-TRAF,Tráfico Centro,100.0
+2020-02-24,CEN-TRAF,Tráfico Centro,100.0
+2020-02-25,CEN-TRAF,Tráfico Centro,100.0
+2020-02-26,CEN-TRAF,Tráfico Centro,100.0
+2020-02-27,CEN-TRAF,Tráfico Centro,100.0
+2020-02-28,CEN-TRAF,Tráfico Centro,100.0
+2020-02-29,CEN-TRAF,Tráfico Centro,100.0
+2020-02-01,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-02,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-03,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-04,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-05,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-06,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-07,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-08,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-09,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-10,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-11,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-12,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-13,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-14,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-15,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-16,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-17,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-18,GIR-SOSN,"SOS Aburrá Norte, Girardota",95.83
+2020-02-19,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-20,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-21,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-22,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-23,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-24,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-25,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-26,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-27,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-28,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-29,GIR-SOSN,"SOS Aburrá Norte, Girardota",100.0
+2020-02-01,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-02,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-03,MED-LAYE,"Tanques La Ye, Medellín",95.83
+2020-02-04,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-05,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-06,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-07,MED-LAYE,"Tanques La Ye, Medellín",95.83
+2020-02-08,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-09,MED-LAYE,"Tanques La Ye, Medellín",95.83
+2020-02-10,MED-LAYE,"Tanques La Ye, Medellín",91.67
+2020-02-11,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-12,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-13,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-14,MED-LAYE,"Tanques La Ye, Medellín",91.67
+2020-02-15,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-16,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-17,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-18,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-19,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-20,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-21,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-22,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-23,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-24,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-25,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-26,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-27,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-28,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-29,MED-LAYE,"Tanques La Ye, Medellín",100.0
+2020-02-01,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-02,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-03,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-04,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-05,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-06,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-07,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-08,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-09,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-10,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-11,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-12,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-13,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-14,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-15,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-16,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-17,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-18,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-19,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-20,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-21,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-22,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-23,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-24,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-25,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-26,MED-FISC,"Fiscalía, Medellín",0.0
+2020-02-27,MED-FISC,"Fiscalía, Medellín",37.5
+2020-02-28,MED-FISC,"Fiscalía, Medellín",100.0
+2020-02-29,MED-FISC,"Fiscalía, Medellín",100.0

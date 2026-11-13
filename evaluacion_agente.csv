@@ -1,0 +1,13 @@
+pregunta,esperada,llamada,herramienta_correcta,fuente_citada
+¿Cuál es el porcentaje de la estación?,consultar_estacion,consultar_estacion,True,True
+Dame el último dato,consultar_estacion,consultar_estacion,True,True
+¿Qué valor tiene?,consultar_estacion,consultar_estacion,True,True
+¿Cuál es el promedio?,consultar_estacion,consultar_estacion,True,True
+¿Puedes predecir mañana?,predecir_disponibilidad,predecir_disponibilidad,True,True
+Predice el día siguiente,predecir_disponibilidad,predecir_disponibilidad,True,True
+¿Qué probabilidades hay?,predecir_disponibilidad,predecir_disponibilidad,True,True
+Dame un pronóstico,predecir_disponibilidad,predecir_disponibilidad,True,True
+¿Qué es PM2.5?,buscar_documentos,buscar_documentos,True,True
+¿Cómo define SIATA el indicador OK?,buscar_documentos,buscar_documentos,True,True
+¿Qué significa dato válido?,buscar_documentos,buscar_documentos,True,True
+¿Cuáles son las limitaciones?,buscar_documentos,buscar_documentos,True,True
