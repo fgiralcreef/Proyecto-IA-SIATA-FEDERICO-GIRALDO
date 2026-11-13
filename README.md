@@ -60,6 +60,3 @@ Las pruebas `tests/test_llm.py` simulan el proveedor para comprobar tool calling
 
 La muestra es breve (solo febrero 2020). Los porcentajes reflejan disponibilidad/validez, no mediciones de contaminación. Hay predominio de clase alta, por lo que la exactitud puede resultar engañosa. No es predicción operacional, consejo médico ni valoración de calidad del aire actual. Ningún secreto incluido en archivos. El funcionamiento remoto depende del proveedor de LLM; el programa conserva un modo local.
 
-## Entrega
-
-Suba toda esta carpeta a un repositorio GitHub **sin claves** y envíe la URL según la instrucción del PDF. Adjunte `informe.pdf`, `evaluacion_agente.csv` y `DECLARACION_IA.md`. La subida a GitHub y el envío del correo son acciones manuales que no realiza este paquete.
